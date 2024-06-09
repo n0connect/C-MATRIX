@@ -36,7 +36,7 @@ To compile and use the C-MATRIX library, you need:
     ./main
     ```
 
-##Functions
+### Functions
 matrix __create_matrix(MX row, MX col, ...) - Create a matrix with specified values.
 matrix __identity_matrix(MX row, MX col) - Create an identity matrix.
 matrix __multiply_matrices(matrix A, matrix B) - Multiply two matrices.
